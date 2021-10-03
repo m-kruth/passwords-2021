@@ -33,3 +33,4 @@ The password is `<insert confusion attack>`
 - "Something I can't say aloud"
 - "Hold on I'll tell you later."
 - "literally nothing"
+- "one word all uppercase two words all LOWERCASE"
